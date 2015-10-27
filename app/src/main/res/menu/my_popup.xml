@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id = "@+id/cv_id"
+        android:title = "CVs OrgCom"
+        />
+    <item
+        android:id = "@+id/sponsor_id"
+        android:title = "Sponsors"
+        />
+    <item
+        android:id = "@+id/stores_id"
+        android:title = "Discount Stores"
+        />
+    <item
+        android:id = "@+id/schedule_id"
+        android:title = "Schedule"
+        />
+    <item
+        android:id = "@+id/directions_id"
+        android:title = "Get around"
+        />
+    <item
+        android:id = "@+id/supporters_id"
+        android:title = "Supporters"
+        />
+    <item
+        android:id = "@+id/contests_id"
+        android:title = "TwitterFeed"
+        />
+    <item
+        android:id = "@+id/fun_id"
+        android:title = "Experience the fun"
+        />
+    <item
+        android:id = "@+id/tabbie_id"
+        android:title = "Tabbie"
+        />
+    <item
+        android:id = "@+id/visit_id"
+        android:title = "Places to visit"
+        />
+    <item
+        android:id = "@+id/hacks_id"
+        android:title = "Hacks"
+        />
+</menu>

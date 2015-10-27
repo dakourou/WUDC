@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="schemas.android.com/tools"
+    tools:context="com.example.family.example.Activity2"
+    xmlns:example="http://schemas.android.com/apk/res-auto" >
+    <item
+        android:id = "@+id/cv_id"
+        example:showAsAction="never"
+        android:title = "CVs OrgCom"
+        />
+    <item
+        android:id = "@+id/sponsor_id"
+        android:title = "Sponsors"
+        example:showAsAction="never"
+        />
+    <item
+        android:id = "@+id/stores_id"
+        android:title = "Discount Stores"
+        example:showAsAction="never"
+        />
+    <item
+        android:id = "@+id/schedule_id"
+        android:title = "Schedule"
+        example:showAsAction="never"
+        />
+    <item
+        android:id = "@+id/directions_id"
+        android:title = "Get around"
+        example:showAsAction="never"
+        />
+    <item
+        android:id = "@+id/supporters_id"
+        android:title = "Supporters"
+        example:showAsAction="never"
+        />
+    <item
+        android:id = "@+id/contests_id"
+        android:title = "TwitterFeed"
+        example:showAsAction="never"
+        />
+    <item
+        android:id = "@+id/fun_id"
+        android:title = "Experience the fun"
+        example:showAsAction="never"
+        />
+    <item
+        android:id = "@+id/tabbie_id"
+        android:title = "Tabbie"
+        example:showAsAction="never"
+        />
+    <item
+        android:id = "@+id/visit_id"
+        android:title = "Places to visit"
+        example:showAsAction="never"
+        />
+    <item
+        android:id = "@+id/hacks_id"
+        android:title = "Hacks"
+        example:showAsAction="never"
+        />
+</menu>
